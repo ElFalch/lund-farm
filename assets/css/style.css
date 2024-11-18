@@ -1,10 +1,28 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&family=Lexend+Exa:wght@100..900&display=swap');
 
-body {
-    font-family: "Lexend Exa", sans-serif;
+/* CSS Variables */
+
+:root {
+    --heading-font: "Delius Swash Caps", serif;
+    --body-font: "Lexend Exa", sans-serif;
+    --text-color: #2e1708; /*dark brown*/
+    --background-color: #eace98; /* beige */ 
+    --feature-color-1: #dc862c; /*burnt orange*/
+    --feature-color-2: #b1894d; /* olive green */
 }
 
-h1 {
-    font-family: "Delius Swash Caps", serif;
+
+/* Global styles */
+
+body {
+    font-family: var(--body-font);
 }
+
+h1,
+h2,
+h3 {
+    font-family: var(--heading-font);
+    color: var(--text-color);
+}
+
