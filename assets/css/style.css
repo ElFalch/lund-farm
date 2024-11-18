@@ -1,0 +1,10 @@
+/* Google fonts import */
+@import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&family=Lexend+Exa:wght@100..900&display=swap');
+
+body {
+    font-family: "Lexend Exa", sans-serif;
+}
+
+h1 {
+    font-family: "Delius Swash Caps", serif;
+}
