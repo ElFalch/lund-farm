@@ -35,3 +35,11 @@ h3 {
     border: 2px solid white;
     background-color: var(--feature-color-1)
 }
+
+footer > .col-12 {
+    background-color: var(--feature-color-2)
+}
+
+#navbar {
+    background-color: var(--feature-color-2)
+}
