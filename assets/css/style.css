@@ -6,40 +6,56 @@
 :root {
     --heading-font: "Delius Swash Caps", serif;
     --body-font: "Lexend Exa", sans-serif;
-    --text-color: #2e1708; /*dark brown*/
-    --background-color: #eace98; /* beige */ 
-    --feature-color-1: #dc862c; /*burnt orange*/
-    --feature-color-2: #b1894d; /* olive green */
+    --text-color: #2e1708;
+    /*dark brown*/
+    --background-color: #eace98;
+    /* beige */
+    --feature-color-1: #dc862c;
+    /*burnt orange*/
+    --feature-color-2: #b1894d;
+    /* olive green */
 }
 
-
-/* Global styles */
+/* Global Styles */ 
 
 body {
+    background-color: var(--background-color);
     font-family: var(--body-font);
+    color: var(--text-color);
 }
 
 h1,
 h2,
 h3 {
     font-family: var(--heading-font);
-    color: var(--text-color);
-}
-
-.container, 
-.row {
-    border: 2px solid black;
 }
 
 .col-12 {
     border: 2px solid white;
+}
+
+/* Navbar */
+
+.navbar-brand {
+    font-family: var(--heading-font);
+    font-size: xx-large;
+}
+
+
+#navbar {
+    background-color: var(--text-color);
+}
+
+/* Containers */
+
+.main-container {
+    background-color: var(--feature-color-2)
+}
+
+.foot-container {
     background-color: var(--feature-color-1)
 }
 
-footer > .col-12 {
-    background-color: var(--feature-color-2)
-}
-
-#navbar {
-    background-color: var(--feature-color-2)
+.main-image{
+   background: url("../images/Barn.webp");
 }
