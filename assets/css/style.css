@@ -16,7 +16,7 @@
     /* olive green */
 }
 
-/* Global Styles */ 
+/* Global Styles */
 
 body {
     background-color: var(--background-color);
@@ -30,8 +30,9 @@ h3 {
     font-family: var(--heading-font);
 }
 
-.col-12 {
-    border: 2px solid white;
+.section {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 /* Navbar */
@@ -49,13 +50,13 @@ h3 {
 /* Containers */
 
 .main-container {
-    background-color: var(--feature-color-2)
+    background-color: var(--feature-color-2);
 }
 
 .foot-container {
     background-color: var(--feature-color-1)
 }
 
-.main-image{
-   background: url("../images/Barn.webp");
+.main-image {
+    background: url("../images/barn.webp");
 }
