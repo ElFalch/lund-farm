@@ -49,14 +49,7 @@ h3 {
 
 /* Containers */
 
-.main-container {
-    background-color: var(--feature-color-2);
-}
 
 .foot-container {
     background-color: var(--feature-color-1)
-}
-
-.main-image {
-    background: url("../images/barn.webp");
 }
