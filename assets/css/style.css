@@ -57,7 +57,7 @@ h2 {
     background-color: var(--feature-color-2);
 }
 
-/* Card images */ 
+/* Card images */
 
 .card-img-top {
     width: 100%;
@@ -66,7 +66,7 @@ h2 {
 }
 
 .card {
-color: var(--text-color);
+    color: var(--text-color);
 }
 
 #service .card {
@@ -75,6 +75,55 @@ color: var(--text-color);
 
 .btn {
     background-color: var(--feature-color-1);
-    width: 30% ;
+    width: 30%;
     border: none;
 }
+
+
+/* Media Queries */ 
+
+/* Extra Large devices (large desktops, less than 1400px) */
+@media screen and (max-width: 1399.98px) {
+    /* Make all carousel images the same height */
+    .carousel-item {
+        max-height: 744px;
+    }
+}
+
+/* Large devices (desktops, less than 1200px) */
+@media screen and (max-width: 1199.98px) {
+    /* Make all carousel images the same height */
+    .carousel-item {
+        max-height: 624px;
+    }
+}
+
+/* Medium devices (tablets, less than 992px) */
+@media screen and (max-width: 991.98px) {
+    /* Make all carousel images the same height */
+    .carousel-item {
+        max-height: 464px;
+    }
+}
+
+
+/* Small devices (landscape phones, less than 768px) */
+@media screen and (max-width: 767.98px) {
+    /* Make all carousel images the same height */
+    .carousel-item {
+        max-height: 344px;
+    }
+}
+
+/* x-small devices (portrait phones, less than 576px) */
+@media screen and (max-width: 575.98px) {
+    /* Make all carousel images the same height */
+    .carousel-item {
+        max-height: 367px;
+    }
+}
+
+
+
+
+
