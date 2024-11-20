@@ -79,8 +79,15 @@ h2 {
     border: none;
 }
 
-
 /* Media Queries */ 
+
+/* Extra Large devices (XX-L devices, more than 1400px) */
+@media screen and (min-width: 1400px) {
+    /* Make all carousel images the same height */
+    .carousel-item {
+        max-height: 865px;
+    }
+}
 
 /* Extra Large devices (large desktops, less than 1400px) */
 @media screen and (max-width: 1399.98px) {
@@ -106,7 +113,6 @@ h2 {
     }
 }
 
-
 /* Small devices (landscape phones, less than 768px) */
 @media screen and (max-width: 767.98px) {
     /* Make all carousel images the same height */
@@ -114,16 +120,3 @@ h2 {
         max-height: 344px;
     }
 }
-
-/* x-small devices (portrait phones, less than 576px) */
-@media screen and (max-width: 575.98px) {
-    /* Make all carousel images the same height */
-    .carousel-item {
-        max-height: 367px;
-    }
-}
-
-
-
-
-
