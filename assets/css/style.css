@@ -31,7 +31,7 @@ h3 {
 }
 
 h2 {
-    MARGIN-BOTTOM: 2rem;
+    margin-bottom: 2rem;
 }
 
 .section {
@@ -85,6 +85,13 @@ h2 {
     border: none;
 }
 
+.social-media {
+
+    color: var(--text-color);
+    font-size: xx-large;
+
+}
+
 /* Media Queries */
 
 /* Extra Large devices (XX-L devices, more than 1400px) */
@@ -131,11 +138,11 @@ h2 {
         max-height: 344px;
     }
 
-    @media screen and (min-width: 768px) {
+@media screen and (min-width: 768px) {
 
         /* Make all service cards the same height for consistency */
         #services .card-body {
             min-height: 191px;
         }
     }
-}
+}    
