@@ -39,6 +39,12 @@ h2 {
     margin-bottom: 2rem;
 }
 
+.sharp-corners,
+.sharp-corners * {
+    /* selects all elements that have a parent with sharp-corner class */
+    border-radius: 0;
+}
+
 /* Navbar */
 
 .navbar-brand {
@@ -59,7 +65,7 @@ h2 {
 
 /* Card images */
 
-.card-img-top {
+.card-img {
     width: 100%;
     height: 300px;
     object-fit: cover;
@@ -79,10 +85,11 @@ h2 {
     border: none;
 }
 
-/* Media Queries */ 
+/* Media Queries */
 
 /* Extra Large devices (XX-L devices, more than 1400px) */
 @media screen and (min-width: 1400px) {
+
     /* Make all carousel images the same height */
     .carousel-item {
         max-height: 865px;
@@ -91,6 +98,7 @@ h2 {
 
 /* Extra Large devices (large desktops, less than 1400px) */
 @media screen and (max-width: 1399.98px) {
+
     /* Make all carousel images the same height */
     .carousel-item {
         max-height: 744px;
@@ -99,6 +107,7 @@ h2 {
 
 /* Large devices (desktops, less than 1200px) */
 @media screen and (max-width: 1199.98px) {
+
     /* Make all carousel images the same height */
     .carousel-item {
         max-height: 624px;
@@ -107,6 +116,7 @@ h2 {
 
 /* Medium devices (tablets, less than 992px) */
 @media screen and (max-width: 991.98px) {
+
     /* Make all carousel images the same height */
     .carousel-item {
         max-height: 464px;
@@ -115,8 +125,17 @@ h2 {
 
 /* Small devices (landscape phones, less than 768px) */
 @media screen and (max-width: 767.98px) {
+
     /* Make all carousel images the same height */
     .carousel-item {
         max-height: 344px;
+    }
+
+    @media screen and (min-width: 768px) {
+
+        /* Make all service cards the same height for consistency */
+        #services .card-body {
+            min-height: 191px;
+        }
     }
 }

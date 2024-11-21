@@ -4,12 +4,28 @@
 
 ![alt text](https://github.com/ElFalch/lund-farm/blob/main/lund_farm_pc_wireframe.png "PC wireframe")
 
-Accreditations 
+##Attributions 
 
-`.card-img-top {
+ ###Stack Overflow
+
+- [Stack Overflow](https://stackoverflow.com/questions/37287153/how-to-get-images-in-bootstraps-card-to-be-the-same-height-width "Stack Overflow")
+
+
+`.card-img {
     width: 100%;
     height: 300px;
     object-fit: cover;
 }`
 
- [Link to stackoverflow page where I found the above code that allowed me to make all card images the same height.](https://stackoverflow.com/questions/37287153/how-to-get-images-in-bootstraps-card-to-be-the-same-height-width "stackoverflow")
+## Code Institute
+
+- Code Institute Introduction to bootstrap Module 
+
+ ` 
+.sharp-corners,
+.sharp-corners * { /* selects all elements that have a parent with sharp-corner class */
+    border-radius: 0;
+} ` 
+
+- Code Institute Boardwalk Games Module 
+
