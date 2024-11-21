@@ -54,3 +54,7 @@
 
 - Code Institute Boardwalk Games Module 
 
+
+## Bootstrap
+
+Bootstrap features have been used throughout this project 
