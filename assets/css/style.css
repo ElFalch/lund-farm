@@ -155,3 +155,18 @@ h2 {
         }
     }
 }
+
+/* X-Small devices (portrait phones, less than 576px) */
+/*@media screen and (max-width: 575.98px) {
+
+
+    .carousel,
+    .carousel-inner,
+    .carousel-item {
+        min-height: 224px;
+        max-height: 224px;
+        min-width: 336px;
+        max-width: 336px;
+    }
+
+} */ 
