@@ -81,7 +81,6 @@ h2 {
 
 .btn {
     background-color: var(--feature-color-1);
-    width: 30%;
     border: none;
 }
 
@@ -119,6 +118,10 @@ h2 {
     .carousel-item {
         max-height: 744px;
     }
+
+    .btn {
+        width: 30%; 
+    }
 }
 
 /* Large devices (desktops, less than 1200px) */
@@ -153,6 +156,10 @@ h2 {
         #services .card-body {
             min-height: 191px;
         }
+    }
+
+    .btn {
+        width: 60%; 
     }
 }
 
