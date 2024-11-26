@@ -22,6 +22,7 @@ body {
     background-color: var(--background-color);
     font-family: var(--body-font);
     color: var(--contrast-color);
+    padding-top: 74px;
 }
 
 h1,
@@ -120,7 +121,7 @@ h2 {
     }
 
     .btn {
-        width: 30%; 
+        width: 30%;
     }
 }
 
@@ -159,7 +160,7 @@ h2 {
     }
 
     .btn {
-        width: 60%; 
+        width: 60%;
     }
 }
 
@@ -167,7 +168,7 @@ h2 {
 @media screen and (max-width: 575.98px) {
 
 
-    .carousel-item > img {
+    .carousel-item>img {
         min-height: 224px;
         max-height: 224px;
         min-width: 336px;
@@ -175,8 +176,8 @@ h2 {
     }
 
 
-#carousel-container {
-    max-width: 336px;
-}
+    #carousel-container {
+        max-width: 336px;
+    }
 
 }
