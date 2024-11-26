@@ -5,9 +5,9 @@
 
 ## Wireframes
 
-![alt text](https://github.com/ElFalch/lund-farm/blob/main/lund_farm_mobile_wireframe.png "Mobile wireframe")
+![alt text](https://github.com/ElFalch/lund-farm/blob/main/assets/images/wireframes/lund_farm_mobile_wireframe.png "Mobile wireframe")
 
-![alt text](https://github.com/ElFalch/lund-farm/blob/main/lund_farm_pc_wireframe.png "PC wireframe")
+![alt text](https://github.com/ElFalch/lund-farm/blob/main/assets/images/wireframes/lund_farm_pc_wireframe.png "PC wireframe")
 
 ## Attributions 
 
@@ -58,3 +58,7 @@
 ## Bootstrap
 
 Bootstrap features have been used throughout this project 
+
+## Autoprefixer
+
+- [Autoprefixer](https://autoprefixer.github.io "Prefixed by Autoprefixer")
