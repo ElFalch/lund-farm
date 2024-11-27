@@ -5,9 +5,24 @@
 
 ## Wireframes
 
+### Updates to design: 
+
+- Included a button in the home page introduction section which links to the contact page, to allow for users to get in touch more easily. 
+
+- Changed the photo grid in the gallery page to a carousel to allow for less scrolling, particularly in mobile and tablet viewports. 
+
+- No image was incldued in the contact page to reduce drowding for a clearer presentation of the contact form. 
+
+### Mobile Wireframe
+
 ![alt text](https://github.com/ElFalch/lund-farm/blob/main/assets/images/wireframes/lund_farm_mobile_wireframe.png "Mobile wireframe")
 
+### Tablet Wireframe
+
+
 ![alt text](https://github.com/ElFalch/lund-farm/blob/main/assets/images/wireframes/lund_farm_tablet_wireframe.png "Tablet wireframe")
+
+### PC Wireframe
 
 ![alt text](https://github.com/ElFalch/lund-farm/blob/main/assets/images/wireframes/lund_farm_pc_wireframe.png "PC wireframe")
 
