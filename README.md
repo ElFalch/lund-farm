@@ -124,7 +124,7 @@ Lots of images have been used across the site, so their size has been reduced as
 
 ### Frameworks Used
 
-- ![Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/) was used for basic elements and styles. 
+- [Bootstrap 5](https://getbootstrap.com/docs/5.3/getting-started/introduction/) was used for basic elements and styles. 
 
 ### Libraries Used
 
@@ -158,7 +158,10 @@ Lots of images have been used across the site, so their size has been reduced as
 
 - altar.webp: [Photo by Joel Paim from Pexels](https://www.pexels.com/photo/wedding-altar-set-up-2434255/)
 
-- image used to create favicons: tweemoji, copyright 2020 Twitter. Licensed under ![CC-BY 4.0](https://github.com/twitter/twemoji/blob/master/assets/svg/1f33e.svg)
+- image used to create favicons: tweemoji, copyright 2020 Twitter. Licensed under [CC-BY 4.0](https://github.com/twitter/twemoji/blob/master/assets/svg/1f33e.svg)
+
+
+## External Code Used
 
  ### Stack Overflow
 
@@ -171,7 +174,7 @@ Lots of images have been used across the site, so their size has been reduced as
     object-fit: cover;
 }`
 
-## Code Institute
+### Code Institute
 
 - Code Institute Introduction to bootstrap Module 
 
