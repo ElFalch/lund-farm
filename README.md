@@ -43,15 +43,15 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
 ![alt text](https://github.com/ElFalch/lund-farm/blob/main/assets/images/wireframes/lund_farm_pc_wireframe.png "PC wireframe")
 
 
-## Colours
+### Colours
 
 The colours used reflect those in the main image on the home page and convey the cosy, inviting atmsophere of Lund Farm whilst providing enough contrast to be accessible. 
 
-## Fonts 
+### Fonts 
 
 The fonts used were chosen as they are rustic and relaxed, reflecting the atmosphere of the venue. Delius Swash Caps was used for the headings because the slightly curled letters add a formal touch and Lexend Exa was used for the body because of its clear, minimalistic appearance. 
 
-## Icons 
+### Icons 
 
 Icons were taken from the ![alt text](https://fontawesome.com/v4/icons/ "FontAwsome") icon library. 
 
@@ -63,6 +63,15 @@ Icons were taken from the ![alt text](https://fontawesome.com/v4/icons/ "FontAws
 
 - An arrow icon is used in the Gallery page to direct people to the image carousel after reading instructions about how it works. 
 
+### Images
+
+Lots of images have been used across the site, so their size has been reduced as much as possible whilst maintining the high quality needed to attract users. 
+
+- On the home page, a main image that reflects the colour scheme has been used in the header aswell as images for each of the services cards. 
+
+- The gallery page consists of a carousel of attractive images of the venue. 
+
+- On the thanks page, which users a taken to when they submit the contact form, an image has been used to fill empty space and provide some brighter colours. 
 
 ## Attributions 
 
