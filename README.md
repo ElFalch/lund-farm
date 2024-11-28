@@ -45,7 +45,7 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
 
 ### Colours
 
-The colours used reflect those in the main image on the home page and convey the cosy, inviting atmsophere of Lund Farm whilst providing enough contrast to be accessible. 
+The colours used reflect those in the main image on the home page and convey the cosy, inviting atmsophere of Lund Farm whilst providing enough contrast to be interesting and accessible. 
 
 ### Fonts 
 
@@ -72,6 +72,41 @@ Lots of images have been used across the site, so their size has been reduced as
 - The gallery page consists of a carousel of attractive images of the venue. 
 
 - On the thanks page, which users a taken to when they submit the contact form, an image has been used to fill empty space and provide some brighter colours. 
+
+
+## Page Elements 
+
+### All Pages
+
+- Navbar: The Navbar provides links to the three main pages of the site and has the Lund Farm logo in its brand. The navbar links collapse down to a burger icon with a dropdown menu on smaller decies. 
+
+- Footer: The Footer provides links to each of the venue's social media pages in the form of icons. 
+
+### Home Page 
+
+- A large image and small paragraph of text in the header draws the user in. A button at the bottom of this paragraph links to the contact page. 
+
+- Bootstrap cards arranged in a responsive grid summarise the services the venue provides along with attractive images. 
+
+### Gallery Page
+
+- A Bootstrap image carousel displays several images whilst removing the need to scroll between images. 
+
+- A paragraph of text above the carousel explains how the carousel works to suers. 
+
+## Contact Page
+
+- A Bootstrap form is used to collect user's email, name and message. 
+
+- A submit button links to the thanks page. 
+
+## Thanks Page 
+
+- A paragraph thanking users for their submission and informing them that they will recieve a response as soon as possible at the top of the page. 
+
+- A button linking back to the home page. 
+
+- A large image filling the bottom of the page. 
 
 ## Attributions 
 
