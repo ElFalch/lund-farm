@@ -44,11 +44,11 @@ The GitHub project board containing Lund Farm user stories can be found [here](h
 
 ### Colours
 
-The colours used reflect those in the main image on the home page and convey the cosy, inviting atmsophere of Lund Farm whilst providing enough contrast to be interesting and accessible. 
+The colours used reflect those in the home page main image and convey the cosy, inviting atmsophere of Lund Farm whilst providing enough contrast to be eye-catching and accessible. 
 
 ### Fonts 
 
-The fonts used were chosen as they are rustic and relaxed, reflecting the atmosphere of the venue. Delius Swash Caps was used for the headings because the slightly curled letters add a formal touch and Lexend Exa was used for the body because of its clear, minimalistic appearance. 
+The fonts used were chosen as they are rustic and relaxed, reflecting the atmosphere of the venue. Delius Swash Caps was used for the headings because the slightly curled letters add a formal touch and Lexend Exa was used for the body because of its clear appearance. 
 
 ### Icons 
 
@@ -64,7 +64,7 @@ Icons were taken from the [FontAwsome](https://fontawesome.com/v4/icons/) icon l
 
 ### Images
 
-Lots of images have been used across the site, so their size has been reduced as much as possible whilst maintining the high quality needed to attract users. 
+Several images have been used across the site, so their size has been reduced as much as possible whilst maintining the high quality needed to attract users. 
 
 - On the home page, a main image that reflects the colour scheme has been used in the header aswell as images for each of the services cards. 
 
@@ -77,35 +77,35 @@ Lots of images have been used across the site, so their size has been reduced as
 
 ### All Pages
 
-- Navbar: The Navbar provides links to the three main pages of the site and has the Lund Farm logo in its brand. The navbar links collapse down to a burger icon with a dropdown menu on smaller decies. 
+- Navbar: The navbar provides links to the three main pages of the site and has the Lund Farm logo in its brand. The navbar links collapse down to a burger icon with a dropdown menu on smaller decies. 
 
-- Footer: The Footer provides links to each of the venue's social media pages in the form of icons. 
+- Footer: The footer provides links to each of the venue's social media pages in the form of icons. 
 
 ### Home Page 
 
-- A large image and small paragraph of text in the header draws the user in. A button at the bottom of this paragraph links to the contact page. 
+- Header: A large image, small paragraph of text and a button that links to the contact page. 
 
-- Bootstrap cards arranged in a responsive grid summarise the services the venue provides along with attractive images. 
+- Bootstrap cards arranged in a responsive grid: Summarise the services the venue provides along with attractive images. 
 
 ### Gallery Page
 
-- A Bootstrap image carousel displays several images whilst removing the need to scroll between images. 
+- Bootstrap image carousel: displays several images whilst removing the need to scroll between images. 
 
-- A paragraph of text above the carousel explains how the carousel works to suers. 
+- Paragraph of text above the carousel: explains how the carousel works.
 
 ### Contact Page
 
-- A Bootstrap form is used to collect user's email, name and message. 
+- Bootstrap form: collects email, name and message information
 
-- A submit button links to the thanks page. 
+- Submit button: links to the thanks page. 
 
 ### Thanks Page 
 
-- A paragraph thanking users for their submission and informing them that they will recieve a response as soon as possible at the top of the page. 
+- Paragraph thanking users for their submission and informing them that they will recieve a response as soon as possible at the top of the page. 
 
-- A button linking back to the home page. 
+- Button: linking back to the home page. 
 
-- A large image filling the bottom of the page. 
+- Large image: filling space at the bottom of the page. 
 
 ## Testing 
 
@@ -114,9 +114,9 @@ Lots of images have been used across the site, so their size has been reduced as
 - HTML was validated using [W3C Markup Validator](https://validator.w3.org/)
 - CSS was validated using [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
-## Automated Testing
+### Automated Testing
 
-- Automated testing for performance, accessibility and best practises was conducted using the [Lighthouse tool](https://developer.chrome.com/docs/lighthouse) within Chrome devtools.  
+- Automated testing for performance, accessibility and best practises was conducted using the [Lighthouse tool](https://developer.chrome.com/docs/lighthouse) within Chrome DevTools.  
 
 
 ## Attributions 
@@ -131,7 +131,7 @@ Lots of images have been used across the site, so their size has been reduced as
 
 - Icons used were from [Font Awsome](https://fontawesome.com/v4/icons/)
 
-## Other tools used
+### Other tools used
 
 - Favicons were generated by [favicon.io](https://favicon.io/)
 
@@ -183,5 +183,5 @@ Lots of images have been used across the site, so their size has been reduced as
     border-radius: 0;
 } ` 
 
-- Code Institute Boardwalk Games Module 
+### Code Institute Boardwalk Games Module 
 
