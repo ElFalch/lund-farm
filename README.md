@@ -94,13 +94,13 @@ Lots of images have been used across the site, so their size has been reduced as
 
 - A paragraph of text above the carousel explains how the carousel works to suers. 
 
-## Contact Page
+### Contact Page
 
 - A Bootstrap form is used to collect user's email, name and message. 
 
 - A submit button links to the thanks page. 
 
-## Thanks Page 
+### Thanks Page 
 
 - A paragraph thanking users for their submission and informing them that they will recieve a response as soon as possible at the top of the page. 
 
@@ -108,12 +108,17 @@ Lots of images have been used across the site, so their size has been reduced as
 
 - A large image filling the bottom of the page. 
 
-### Testing 
+## Testing 
 
-## Validation 
+### Validation 
 
 - HTML was validated using [W3C Markup Validator](https://validator.w3.org/)
 - CSS was validated using [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+## Automated Testing
+
+- Automated testing for performance, accessibility and best practises was conducted using the [Lighthouse tool](https://developer.chrome.com/docs/lighthouse) within Chrome devtools.  
+
 
 ## Attributions 
 
