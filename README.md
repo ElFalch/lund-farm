@@ -108,6 +108,12 @@ Lots of images have been used across the site, so their size has been reduced as
 
 - A large image filling the bottom of the page. 
 
+### Testing 
+
+## Validation 
+
+- HTML was validated using ![alt text](https://validator.w3.org/ "W3C Markup Validator")
+- CSS was validated using ![alt text](https://jigsaw.w3.org/css-validator/ "W3C CSS Validator")
 
 ## Attributions 
 
@@ -171,3 +177,4 @@ Lots of images have been used across the site, so their size has been reduced as
 } ` 
 
 - Code Institute Boardwalk Games Module 
+
