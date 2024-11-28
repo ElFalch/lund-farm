@@ -157,7 +157,7 @@ Several images have been used across the site, so their size has been reduced as
 
 - altar.webp: [Photo by Joel Paim from Pexels](https://www.pexels.com/photo/wedding-altar-set-up-2434255/)
 
-- image used to create favicons: tweemoji, copyright 2020 Twitter. Licensed under [CC-BY 4.0](https://github.com/twitter/twemoji/blob/master/assets/svg/1f33e.svg)
+- image used to create favicons: tweemoji, copyright 2020 Twitter. Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 
 ## External Code Used
