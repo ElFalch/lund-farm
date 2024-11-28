@@ -14,8 +14,7 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
 
 ## User Stories 
 
-[Link to the Lund Farm user stories GitHub project board](https://github.com/users/ElFalch/projects/2/views/1)
-
+The GitHub project board containing Lund Farm user stories can be found [here](https://github.com/users/ElFalch/projects/2/views/1).
 
 ## Visual Design
 
