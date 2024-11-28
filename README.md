@@ -160,7 +160,7 @@ Several images have been used across the site, so their size has been reduced as
 - image used to create favicons: tweemoji, copyright 2020 Twitter. Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 
-## External Code Used
+## Code from external sources
 
  ### Stack Overflow
 
