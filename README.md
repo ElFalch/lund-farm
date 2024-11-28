@@ -108,7 +108,19 @@ Lots of images have been used across the site, so their size has been reduced as
 
 - A large image filling the bottom of the page. 
 
+
 ## Attributions 
+
+### Frameworks Used
+
+- ![alt text](https://getbootstrap.com/docs/5.3/getting-started/introduction/ "Bootstrap 5") was used for basic elements and styles. 
+
+### Libraries Used
+
+- Fonts used were from ![alt text](https://fonts.google.com/ "Google Fonts")
+
+- Icons used were from ![alt text](https://fontawesome.com/v4/icons/ "Font Awsome")
+
 
 ### Images
 
@@ -154,10 +166,7 @@ Lots of images have been used across the site, so their size has been reduced as
 - Code Institute Boardwalk Games Module 
 
 
-## Bootstrap
-
-Bootstrap features have been used throughout this project 
-
 ## Autoprefixer
 
 - [Autoprefixer](https://autoprefixer.github.io "Prefixed by Autoprefixer")
+
