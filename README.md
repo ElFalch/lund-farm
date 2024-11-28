@@ -1,11 +1,27 @@
+# Lund Farm
+
+This website is designed to showcase a wedding venue, Lund Farm and its services whilst providing users with a way of contacting the venue and finding relevant social media pages. 
+
+## Visitor Goals
+
+### Target Audience
+
+- Engaged Couples looking for a wedding venue.
+
+- Wedding planners looking for information about the venue.
+
+- Wedding guests looking to familiarise themselves with the venue before attending a wedding there. 
+
 ## User Stories 
 
 [Link to the relevant user stories GitHub project board](https://github.com/users/ElFalch/projects/2/views/1 "Lund farm user stories GitHub project board")
 
 
-## Wireframes
+## Visual Design
 
-### Updates to design: 
+### Wireframes
+
+#### Updates to design since creating wireframes: 
 
 - Included a button in the home page introduction section which links to the contact page, to allow for users to get in touch more easily. 
 
@@ -13,18 +29,40 @@
 
 - No image was incldued in the contact page to reduce drowding for a clearer presentation of the contact form. 
 
-### Mobile Wireframe
+#### Mobile Wireframe
 
 ![alt text](https://github.com/ElFalch/lund-farm/blob/main/assets/images/wireframes/lund_farm_mobile_wireframe.png "Mobile wireframe")
 
-### Tablet Wireframe
+#### Tablet Wireframe
 
 
 ![alt text](https://github.com/ElFalch/lund-farm/blob/main/assets/images/wireframes/lund_farm_tablet_wireframe.png "Tablet wireframe")
 
-### PC Wireframe
+#### PC Wireframe
 
 ![alt text](https://github.com/ElFalch/lund-farm/blob/main/assets/images/wireframes/lund_farm_pc_wireframe.png "PC wireframe")
+
+
+## Colours
+
+The colours used reflect those in the main image on the home page and convey the cosy, inviting atmsophere of Lund Farm whilst providing enough contrast to be accessible. 
+
+## Fonts 
+
+The fonts used were chosen as they are rustic and relaxed, reflecting the atmosphere of the venue. Delius Swash Caps was used for the headings because the slightly curled letters add a formal touch and Lexend Exa was used for the body because of its clear, minimalistic appearance. 
+
+## Icons 
+
+Icons were taken from the ![alt text](https://fontawesome.com/v4/icons/ "FontAwsome") icon library. 
+
+- A heart icon is used in the navigation bar brand, after the venue name. 
+
+- Icons for Facebook, X (formerly Twitter), Instagram and YouTube are used in the footer as buttons linking to each of these sites. 
+
+- An icon with two speech bubbles is used to hilight the button linking to the contact page on the home page. 
+
+- An arrow icon is used in the Gallery page to direct people to the image carousel after reading instructions about how it works. 
+
 
 ## Attributions 
 
