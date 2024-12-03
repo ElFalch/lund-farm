@@ -70,7 +70,7 @@ h2 {
     width: 100%;
     height: 300px;
     -o-object-fit: cover;
-       object-fit: cover;
+    object-fit: cover;
 }
 
 .card {
@@ -126,7 +126,9 @@ h2 {
     .btn {
         width: 30%;
     }
+
 }
+
 
 /* Large devices (desktops, less than 1200px) */
 @media screen and (max-width: 1199.98px) {
@@ -146,6 +148,10 @@ h2 {
     }
 }
 
+.btn {
+    width: 60%;
+}
+
 /* Small devices (landscape phones, less than 768px) */
 @media screen and (max-width: 767.98px) {
 
@@ -154,18 +160,8 @@ h2 {
         max-height: 344px;
     }
 
-    @media screen and (min-width: 768px) {
+}    
 
-        /* Make all service cards the same height for consistency */
-        #services .card-body {
-            min-height: 191px;
-        }
-    }
-
-    .btn {
-        width: 60%;
-    }
-}
 
 /* X-Small devices (portrait phones, less than 576px) */
 @media screen and (max-width: 575.98px) {
