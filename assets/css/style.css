@@ -106,7 +106,7 @@ h2 {
 
 /* Media Queries */
 
-/* Extra Large devices (XX-L devices, more than 1400px) */
+/* 2XL devices (XX-L devices, more than 1400px) */
 @media screen and (min-width: 1400px) {
 
     /* Make all carousel images the same height */
@@ -124,7 +124,7 @@ h2 {
     }
 
     .btn {
-        width: 30%;
+        width: 20%;
     }
 
 }
@@ -149,7 +149,7 @@ h2 {
 }
 
 .btn {
-    width: 60%;
+    width: 40%;
 }
 
 /* Small devices (landscape phones, less than 768px) */
