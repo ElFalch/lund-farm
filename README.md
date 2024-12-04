@@ -133,7 +133,9 @@ Icons were taken from the [FontAwsome](https://fontawesome.com/v4/icons/) icon l
 
 - An icon with two speech bubbles is used to hilight the button linking to the contact page on the home page. 
 
-- An arrow icon is used in the Gallery page to direct people to the image carousel after reading instructions about how it works. 
+- An arrow icon is used in the gallery page to direct people to the image carousel after reading instructions about how it works. 
+
+- A pencil icon is used in the contact page to highlight message about filling the form out. 
 
 ### Images
 
