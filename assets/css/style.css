@@ -40,9 +40,10 @@ h2 {
     margin-bottom: 2rem;
 }
 
+
+/* selects all elements that have a parent with sharp-corner class - taken from Code Institute Introduction to bootstrap Module */
 .sharp-corners,
 .sharp-corners * {
-    /* selects all elements that have a parent with sharp-corner class */
     border-radius: 0;
 }
 
@@ -64,7 +65,7 @@ h2 {
     background-color: var(--feature-color-2);
 }
 
-/* Card images */
+/* Card images - taken from Stack Overflow(https://stackoverflow.com/questions/37287153/how-to-get-images-in-bootstraps-card-to-be-the-same-height-width) */
 
 .card-img {
     width: 100%;
