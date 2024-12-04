@@ -1,7 +1,7 @@
 /* Google fonts import */
 @import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&family=Lexend+Exa:wght@100..900&display=swap');
 
-/* CSS Variables */
+/* CSS Variables - :root allows for the selection of all html elements. Taken from the Code Institute Boardwalk Games module project. */
 
 :root {
     --heading-font: "Delius Swash Caps", serif;
@@ -65,7 +65,7 @@ h2 {
     background-color: var(--feature-color-2);
 }
 
-/* Card images - taken from Stack Overflow(https://stackoverflow.com/questions/37287153/how-to-get-images-in-bootstraps-card-to-be-the-same-height-width) */
+/* Card images - taken from Stack Overflow (https://stackoverflow.com/questions/37287153/how-to-get-images-in-bootstraps-card-to-be-the-same-height-width) */
 
 .card-img {
     width: 100%;
