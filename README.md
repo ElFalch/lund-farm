@@ -107,6 +107,7 @@ Several images have been used across the site, so their size has been reduced as
 
 - Large image: filling space at the bottom of the page. 
 
+
 ## Testing 
 
 ### Validation 
@@ -162,26 +163,7 @@ Several images have been used across the site, so their size has been reduced as
 
 ## Code from external sources
 
- ### Stack Overflow
-
-- [Stack Overflow](https://stackoverflow.com/questions/37287153/how-to-get-images-in-bootstraps-card-to-be-the-same-height-width)
+- General structure taken from [Code Institute](https://codeinstitute.net/uk-funded-cohorts/?utm_term=code%20institute&utm_campaign=CI%20-%20UK%20-%20Search%20-%20Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=1578649861&hsa_grp=62188641240&hsa_ad=635720257674&hsa_src=g&hsa_tgt=kwd-319867646331&hsa_kw=code%20institute&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAmMC6BhA6EiwAdN5iLboL3Mus4shnMVy0f0w_H3d2NIwegbliRN7ME8yx7dTEaBqlfBIV5xoCtnQQAvD_BwE) Boardwalk Games module project. 
 
 
-`.card-img {
-    width: 100%;
-    height: 300px;
-    object-fit: cover;
-}`
-
-### Code Institute
-
-- Code Institute Introduction to bootstrap Module 
-
- ` 
-.sharp-corners,
-.sharp-corners * { /* selects all elements that have a parent with sharp-corner class */
-    border-radius: 0;
-} ` 
-
-### Code Institute Boardwalk Games Module 
 
