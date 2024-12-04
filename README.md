@@ -44,6 +44,8 @@ The GitHub project board containing Lund Farm user stories can be found [here](h
 
 ### Colours
 
+![alt text](https://github.com/ElFalch/lund-farm/blob/main/assets/images/colour-palette/lund-farm-palette.png "Colour palette")
+
 The colours used reflect those in the home page main image and convey the cosy, inviting atmsophere of Lund Farm whilst providing enough contrast to be eye-catching and accessible. 
 
 ### Fonts 
