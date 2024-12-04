@@ -2,6 +2,77 @@
 
 This website is designed to showcase a wedding venue, Lund Farm and its services whilst providing users with a way of contacting the venue and finding relevant social media pages. 
 
+## Table of Contents
+1. <details open>
+    <summary><a href="#ux">UX</a></summary>
+
+    <ul>
+    <li><details>
+    <summary><a href="#goals">Goals</a></summary>
+
+    - [Visitor Goals](#visitor-goals)
+    - [User Stories](#user-stories)
+    </details></li>
+
+    <li><details>
+    <summary><a href="#visual-design">Visual Design</a></summary>
+
+    - [Wireframes](#wireframes)
+    - [Colors](#colors)
+    - [Fonts](#fonts)
+    - [Icons](#icons)
+    - [Images](#images)
+    </details></li>
+    </ul>
+</details>
+
+2. <details open>
+    <summary><a href="#features">Features</a></summary>
+
+    <ul>
+    <li><details>
+    <summary><a href="#page-elements">Page Elements</a></summary>
+
+    - [All Pages](#all-pages)
+    - [Index Page](#index-page)
+    - [Gallery Page](#gallery-page)
+    - [Contact Page](#contact-page)
+    - [Thanks Page](#thanks-page)
+    - [404 Page](#404-page)
+    </details></li>
+
+
+4. <details open>
+    <summary><a href="#testing">Testing</a></summary>
+
+    <ul>
+    <li><details>
+    <summary><a href="#methods">Methods</a></summary>
+
+    - [Validation](#validation)
+    - [Automated Testing](#general-testing)
+
+    </details></li>
+    </ul>
+</details>
+
+5. <details open>
+    <summary><a href="#deployment">Deployment</a></summary>
+</details>
+
+6. <details open>
+    <summary><a href="#attributionst">Attributions</a></summary>
+
+    - [Frameworks Used](#frameworks-used)
+    - [Libraries Used](#libraries-used)
+    - [Other Tools Used](#other-tools-used)
+    - [Images](#images)
+    - [Code From External Sources](#code-from-external-sources)
+
+</details>
+
+----
+
 ## Visitor Goals
 
 ### Target Audience
