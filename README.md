@@ -143,35 +143,38 @@ The GitHub project board containing Lund Farm user stories can be found [here](h
 
 ![alt text](https://github.com/ElFalch/lund-farm/blob/main/assets/images/colour-palette/lund-farm-palette.png "Colour palette")
 
-The colours used reflect those in the home page main image and convey the cosy, inviting atmsophere of Lund Farm whilst providing enough contrast to be eye-catching and accessible. 
+The colours used reflect those in the home page main image and convey the cosy, inviting atmsophere of Lund Farm whilst providing enough contrast to be eye-catching and accessible. This increases the likelihood that target users access all aspects of the website and will have a pleasant experience when doing so, increasing the use of the website and business services. 
 
 ### Fonts 
 
-The fonts used were chosen as they are rustic and relaxed, reflecting the atmosphere of the venue. Delius Swash Caps was used for the headings because the slightly curled letters add a formal touch and Lexend Exa was used for the body because of its clear appearance. 
+The fonts used were chosen as they are rustic and relaxed, reflecting the atmosphere of the venue so that user's impressions of the site and busiess are further improved. Delius Swash Caps was used for the headings because the slightly curled letters add a formal touch, signposting each section of the site to increase ease of navigation for users. Lexend Exa was used for the body because of its clear appearance, so that users are more likely to read all of the information provided. 
 
 ### Icons 
 
 Icons were taken from the [FontAwsome](https://fontawesome.com/v4/icons/) icon library. 
 
-- A heart icon is used in the navigation bar brand, after the venue name. 
+- A heart icon is used in the navigation bar brand, reflecting Lund Farm's services at a first-impression level, so that target users are encouraged to use the site and business at a greater level. 
 
-- Icons for Facebook, X (formerly Twitter), Instagram and YouTube are used in the footer as buttons linking to each of these sites. 
+- Icons for Facebook, X (formerly Twitter), Instagram and YouTube are used in the footer as buttons linking to each of these sites, improving the visibility of these links so that more users follow them. 
 
-- An icon with two speech bubbles is used to hilight the button linking to the contact page on the home page. 
+- An icon with two speech bubbles is used to highlight the button linking to the contact page on the home page, making this button appear more inviting so that more users are encouraged to click it. 
 
-- An arrow icon is used in the gallery page to direct people to the image carousel after reading instructions about how it works. 
+- An arrow icon is used in the gallery page to direct people to the image carousel after reading instructions about how it works, increasing the number of times the carousel images are viewed. 
 
-- A pencil icon is used in the contact page to highlight message about filling the form out. 
+- A pencil icon is used in the contact page to highlight the message about filling the form out, increasing the number of times the contact form is successfully submitted. 
 
 ### Images
 
 Several images have been used across the site, so their size has been reduced as much as possible whilst maintining the high quality needed to attract users. 
 
-- On the home page, a main image that reflects the colour scheme has been used in the header aswell as images for each of the services cards. 
+- On the home page, a main image that reflects the colour scheme has been used in the header aswell as images for each of the services cards. This reduces the time needed for users to get a first impression of the services provided by the business, increasing the use of services by target users. 
 
-- The gallery page consists of a carousel of attractive images of the venue. 
+- The gallery page includes a carousel of attractive images of the venue, further conveying the servies provided by the business for users who are interested. 
 
-- On the thanks page, which users a taken to when they submit the contact form, an image has been used to fill empty space and provide some brighter colours. 
+- On the thanks page, which users are taken to when they submit the contact form, an image has been used to fill empty space and provide some brighter colours and a friendly touch, increasing the impact of the page by and a personal touch, so that users feel certain their message is valued. 
+
+- On the  404 page, which users are taken to when they search for a page which doesn't exist, an image has been used to fill empty space and provide some brighter colours and a friendly touch, so that users are encouraged to visit the page they are directed to (home page). 
+
 
 # Page Elements 
 
@@ -202,6 +205,15 @@ Several images have been used across the site, so their size has been reduced as
 ## Thanks Page 
 
 - Paragraph thanking users for their submission and informing them that they will recieve a response as soon as possible at the top of the page. 
+
+- Button: linking back to the home page. 
+
+- Large image: filling space at the bottom of the page. 
+
+
+## 404 Page 
+
+- Paragraph explaining that unfortunately, the page they are looking can't be found. 
 
 - Button: linking back to the home page. 
 
