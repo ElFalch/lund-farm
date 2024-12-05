@@ -3,24 +3,30 @@
 This website is designed to showcase a wedding venue, Lund Farm and its services whilst providing users with a way of contacting the venue and finding relevant social media pages. 
 
 ## Table of Contents
+
 1. <details open>
     <summary><a href="#ux">UX</a></summary>
 
     <ul>
-    <li>
+    <li><details>
+    <summary><a href="#goals">Goals</a></summary>
+
     - [Visitor Goals](#visitor-goals)
     - [User Stories](#user-stories)
-    </li>
+
+     </li>
 
     <li><details>
+
     <summary><a href="#visual-design">Visual Design</a></summary>
 
     - [Wireframes](#wireframes)
-    - [Colors](#colors)
+    - [Colours](#colours)
     - [Fonts](#fonts)
     - [Icons](#icons)
     - [Images](#images)
-    </details></li>
+
+      </details></li>
 
     </ul>
 
@@ -62,26 +68,31 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
 </details>
 
 5. <details open>
-    <summary><a href="#attributionst">Attributions</a></summary>
+    <summary><a href="#attributions">Attributions</a></summary>
 
     <ul>
-   <li>
+
+    <li>
+
     - [Frameworks Used](#frameworks-used)
     - [Libraries Used](#libraries-used)
     - [Other Tools Used](#other-tools-used)
     - [Images](#images)
     - [Code From External Sources](#code-from-external-sources)
+
 </li>
 
 </ul>
+
 </details>
 
 ----
 
-
 # UX
 
-## Target Audience
+## Goals
+
+### Target Audience
 
 - Engaged Couples looking for a wedding venue.
 
@@ -89,7 +100,7 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
 
 - Wedding guests looking to familiarise themselves with the venue before attending a wedding there. 
 
-## User Stories 
+### User Stories 
 
 The GitHub project board containing Lund Farm user stories can be found [here](https://github.com/users/ElFalch/projects/2/views/1).
 
