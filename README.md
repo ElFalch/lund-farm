@@ -247,7 +247,7 @@ The steps to deploy to GitHub pages are as follows:
 
 ** Note - deployement may take a few minutes. 
 
-- Once deployed, the steps to access your live site are as follows:  
+Once deployed, the steps to access your live site are as follows:  
 
 1. In the specific GitHub repository page, select the "Code" tab in the menu at the top of the screen.
 2. Refresh the page, then select "Deployments" in the bottom-right corner of the screen
