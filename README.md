@@ -211,6 +211,40 @@ Several images have been used across the site, so their size has been reduced as
 - Automated testing for performance, accessibility and best practises was conducted using the [Lighthouse tool](https://developer.chrome.com/docs/lighthouse) within Chrome DevTools.  
 
 
+# Deployment
+
+The site was deployed to GitHub pages. The deployed site can be found [here] (https://elfalch.github.io/lund-farm/) 
+
+## Cloning the GitHub Repository using Gitpod
+
+To make a copy of this repository so you can view and edit within your own GitHub repository, you should do the following:
+
+1. Open the repository you want to use in gitpod IDE.  
+
+2. Select the folder in which you wish to store the repository and enter the following code into the terminal: 
+
+`git clone https://github.com/ElFalch/lund-farm`
+
+3. Add, commit and push your changes. 
+
+
+## Deploying your repository to GitHub Pages
+
+The steps to deploy to GitHub pages are as follows:
+
+1. In the specific GitHub repository page, select the "Settings" tab in the menu at the top of the screen.
+2. Select the "pages" tab on the left-hand side of the screen.
+3. Find the "Build and Deployment" section and select "main" from the left-most dropdown menu of the "Branch" sub-section then select "save" **
+
+** Note - deployement may take a few minutes. 
+
+- Once deployed, the steps to access your live site are as follows:  
+
+1. In the specific GitHub repository page, select the "Code" tab in the menu at the top of the screen.
+2. Refresh the page, then select "Deployments" in the bottom-right corner of the screen
+3. Select the link at the top of the screen to open the deployed site. 
+
+
 # Attributions 
 
 ## Frameworks Used
