@@ -6,6 +6,7 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
 1. <details open>
     <summary><a href="#ux">UX</a></summary>
 
+    <ul>
     <li><details>
     - [Visitor Goals](#visitor-goals)
     - [User Stories](#user-stories)
@@ -20,11 +21,15 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
     - [Icons](#icons)
     - [Images](#images)
     </details></li>
+
+    </ul>
+
 </details>
 
 2. <details open>
     <summary><a href="#page-elements">Page Elements</a></summary>
 
+    <ul>
     <li><details>
 
     - [All Pages](#all-pages)
@@ -35,27 +40,31 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
     - [404 Page](#404-page)
     </details></li>
 
+    </ul>
+    </details>
 
-4. <details open>
+
+3. <details open>
     <summary><a href="#testing">Testing</a></summary>
 
+    <ul>
     <li><details>
-    <summary><a href="#methods">Methods</a></summary>
 
     - [Validation](#validation)
     - [Automated Testing](#general-testing)
 
     </details></li>
-
+</ul>
 </details>
 
-5. <details open>
+4. <details open>
     <summary><a href="#deployment">Deployment</a></summary>
 </details>
 
-6. <details open>
+5. <details open>
     <summary><a href="#attributionst">Attributions</a></summary>
 
+    <ul>
    <li><details>
     - [Frameworks Used](#frameworks-used)
     - [Libraries Used](#libraries-used)
@@ -63,6 +72,9 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
     - [Images](#images)
     - [Code From External Sources](#code-from-external-sources)
 </details></li>
+
+</ul>
+</details>
 
 ----
 
