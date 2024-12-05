@@ -143,7 +143,7 @@ The GitHub project board containing Lund Farm user stories can be found [here](h
 
 ### Colours
 
-![alt text](https://github.com/ElFalch/lund-farm/blob/main/assets/images/colour-palette/lund-farm-palette.png "Colour palette")
+![alt text](https://github.com/ElFalch/lund-farm/blob/main/assets/images/colour-palette/lund-farm.png "Colour palette")
 
 The colours used reflect those in the home page main image and convey the cosy, inviting atmsophere of Lund Farm whilst providing enough contrast to be eye-catching and accessible. This increases the likelihood that target users access all aspects of the website and will have a pleasant experience when doing so, increasing the use of the website and business services. 
 
