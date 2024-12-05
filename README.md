@@ -65,6 +65,15 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
 
 4. <details open>
     <summary><a href="#deployment">Deployment</a></summary>
+    <ul>
+    <li>
+
+    - [Cloning the GitHub Repository using Gitpod](#cloning-the-github-repository-using-gitpod)
+    - [Deploying Your Repository to GitHub Pages](#deploying-your-repository-to-github-pages)
+
+    </li>
+</ul>
+
 </details>
 
 5. <details open>
@@ -228,7 +237,7 @@ To make a copy of this repository so you can view and edit within your own GitHu
 3. Add, commit and push your changes. 
 
 
-## Deploying your repository to GitHub Pages
+## Deploying Your Repository to GitHub Pages
 
 The steps to deploy to GitHub pages are as follows:
 
