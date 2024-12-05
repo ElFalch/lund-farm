@@ -6,10 +6,7 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
 1. <details open>
     <summary><a href="#ux">UX</a></summary>
 
-    <ul>
     <li><details>
-    <summary><a href="#goals">Goals</a></summary>
-
     - [Visitor Goals](#visitor-goals)
     - [User Stories](#user-stories)
     </details></li>
@@ -23,15 +20,12 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
     - [Icons](#icons)
     - [Images](#images)
     </details></li>
-    </ul>
 </details>
 
 2. <details open>
-    <summary><a href="#features">Features</a></summary>
-
-    <ul>
-    <li><details>
     <summary><a href="#page-elements">Page Elements</a></summary>
+
+    <li><details>
 
     - [All Pages](#all-pages)
     - [Index Page](#index-page)
@@ -45,7 +39,6 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
 4. <details open>
     <summary><a href="#testing">Testing</a></summary>
 
-    <ul>
     <li><details>
     <summary><a href="#methods">Methods</a></summary>
 
@@ -53,7 +46,7 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
     - [Automated Testing](#general-testing)
 
     </details></li>
-    </ul>
+
 </details>
 
 5. <details open>
@@ -63,19 +56,21 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
 6. <details open>
     <summary><a href="#attributionst">Attributions</a></summary>
 
+   <li><details>
     - [Frameworks Used](#frameworks-used)
     - [Libraries Used](#libraries-used)
     - [Other Tools Used](#other-tools-used)
     - [Images](#images)
     - [Code From External Sources](#code-from-external-sources)
-
-</details>
+</details></li>
 
 ----
 
-## Visitor Goals
+## UX
 
-### Target Audience
+### Visitor Goals
+
+#### Target Audience
 
 - Engaged Couples looking for a wedding venue.
 
@@ -83,7 +78,7 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
 
 - Wedding guests looking to familiarise themselves with the venue before attending a wedding there. 
 
-## User Stories 
+### User Stories 
 
 The GitHub project board containing Lund Farm user stories can be found [here](https://github.com/users/ElFalch/projects/2/views/1).
 
