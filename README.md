@@ -113,7 +113,7 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
 
 The GitHub project board containing Lund Farm user stories can be found [here](https://github.com/users/ElFalch/projects/2/views/1).
 
-- These user stories include some future ideas for the project (labelled as wont-have in the project board). 
+- These user stories include some future ideas for the project (labelled as "wont-have" in the project board). 
 
 ## Visual Design
 
