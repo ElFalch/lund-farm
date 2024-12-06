@@ -251,14 +251,22 @@ The CSS stylesheet was validated using [W3C CSS Validator](https://jigsaw.w3.org
 
 - Automated testing for performance, accessibility and best practises was conducted using the [Lighthouse tool](https://developer.chrome.com/docs/lighthouse) within Chrome DevTools.  
 
-| Page          | Result                                                                                                                                                |   
+| Page          | Lighthouse Report Summary                                                                                                                             |   
 | ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
-| index.html    |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/index-lighthouse-summary.png) ![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/index-lighthouse-diagnostics.png)   | 
-| gallery.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/gallery-lighthouse-summary.png) ![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/gallery-lighthouse-diagnostics.png)  |
-| contact.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/contact-lighthouse-summary.png) ![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/contact-lighthouse-diagnostics.png)  | 
-| thanks.html   |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/thanks-lighthouse-summary.png) ![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/thanks-lighthouse-diagnostics.png)   |
-| 404.html      |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/404-lighthouse-summary.png) ![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/404-lighthouse-diagnostics.png)      | 
+| index.html    |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/index-lighthouse-summary.png)                       | 
+| gallery.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/gallery-lighthouse-summary.png)                     |
+| contact.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/contact-lighthouse-summary.png)                     | 
+| thanks.html   |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/thanks-lighthouse-summary.png)                      |
+| 404.html      |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/404-lighthouse-summary.png)                         | 
 
+
+| Page          | Lighthouse Report Diagnostics                                                                                                                         |   
+| ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
+| index.html    |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/index-lighthouse-diagnostics.png)                   | 
+| gallery.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/gallery-lighthouse-diagnostics.png)                 |
+| contact.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/contact-lighthouse-diagnostics.png)                 | 
+| thanks.html   |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/thanks-lighthouse-diagnostics.png)                  |
+| 404.html      |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/404-lighthouse-diagnostics.png)                     | 
 
 # Deployment
 
