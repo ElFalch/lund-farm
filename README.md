@@ -251,7 +251,7 @@ The CSS stylesheet was validated using [W3C CSS Validator](https://jigsaw.w3.org
 
 ### Lighthouse Testing
 
-- Automated testing for performance, accessibility and best practises was conducted using the [Lighthouse tool](https://developer.chrome.com/docs/lighthouse) within Chrome DevTools.  
+- Automated testing of the deployed site for performance, accessibility and best practises was conducted using the [Lighthouse tool](https://developer.chrome.com/docs/lighthouse) within Chrome DevTools.  
 
 #### Lighthouse Report Summaries
 
