@@ -279,6 +279,28 @@ Other significant negative influences upon Lighthouse performance scores were re
 | thanks.html   |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/thanks-lighthouse-diagnostics.png)                  |
 | 404.html      |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/404-lighthouse-diagnostics.png)                     | 
 
+
+### Wave accessibility testing
+
+#### Wave accessibility Report Summaries
+
+| Page          | Lighthouse Report Summary                                                                                                                             |   
+| ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
+| index.html    |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/index-wave-summary.png)                                   | 
+| gallery.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/gallery-wave-summary.png)                                 |
+| contact.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/contact-wave-summary.png)                                 | 
+| thanks.html   |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/thanks-wave-summary.png)                                  |
+| 404.html      |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/404-wave-summary.png)                                     | 
+
+#### Wave accessibility Report Details
+
+| Page          | Lighthouse Report Details                                                                                                                             |   
+| ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
+| index.html    |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/index-wave-details-1.png)                                   | 
+| index.html    |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/index-wave-details-2.png)                                 |
+| gallery.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/gallery-wave-details-1.png)                                 | 
+| gallery.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/gallery-wave-details-2.png)                                  |
+
 # Deployment
 
 The site was deployed to GitHub pages. The deployed site can be found [here] (https://elfalch.github.io/lund-farm/) 
