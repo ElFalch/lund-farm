@@ -228,7 +228,7 @@ Several images have been used across the site, so their size has been reduced as
 
 ### HTML Validation
 
-The HTML for each page was validated used the [W3C Markup Validator](https://validator.w3.org/)
+The HTML for each page was validated used the [W3C Markup Validator](https://validator.w3.org/). No errors or warnings were found for any of the pages. 
 
 | Page          | Result                                                                                                                                                |   
 | ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
@@ -245,11 +245,19 @@ The CSS stylesheet was validated using [W3C CSS Validator](https://jigsaw.w3.org
 | Summary         | Result                                                                                                                                                |   
 | --------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
 | No errors found |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/css-validation-images/lund-farm-css-no-errors.png)   | 
-| Warnings are the result of Google fonts and css prefixes being used and do not present any issues |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/css-validation-images/lund-farm-css-warnings.png)    |
+| Warnings are the result of Google fonts and css prefixes being used and do not present any issues |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/css-validation-images/lund-farm-css-warnings.png)|
 
 ## Automated Testing
 
 - Automated testing for performance, accessibility and best practises was conducted using the [Lighthouse tool](https://developer.chrome.com/docs/lighthouse) within Chrome DevTools.  
+
+| Page          | Result                                                                                                                                                |   
+| ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
+| index.html    |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/index-lighthouse-summary.png) ![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/index-lighthouse-diagnostics.png)   | 
+| gallery.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/gallery-lighthouse-summary.png) ![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/gallery-lighthouse-diagnostics.png)  |
+| contact.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/contact-lighthouse-summary.png) ![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/contact-lighthouse-diagnostics.png)  | 
+| thanks.html   |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/thanks-lighthouse-summary.png) ![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/thanks-lighthouse-diagnostics.png)   |
+| 404.html      |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/404-lighthouse-summary.png) ![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-texting/404-lighthouse-diagnostics.png)      | 
 
 
 # Deployment
