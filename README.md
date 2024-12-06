@@ -224,9 +224,19 @@ Several images have been used across the site, so their size has been reduced as
 
 # Testing 
 
-## Validation 
+## Validation
 
-- HTML was validated using [W3C Markup Validator](https://validator.w3.org/)
+### HTML Validation
+
+The HTML for each page was validated used the [W3C Markup Validator](https://validator.w3.org/)
+
+| Page          | Result                                                                                                                                                |   
+| ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
+| index.html    |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/index-html-validation.png)    | 
+| gallery.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/gallery-html-validation.png)  |
+| contact.html  |                                                                                                                                                       | 
+
+
 - CSS was validated using [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
 ## Automated Testing
