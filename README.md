@@ -267,7 +267,7 @@ The total score for performance for each of the pages ranged from 73% to 99 %. T
 
 #### Lighthouse performance report diagnostics
 
-The main negative influence upon Lighthouse performance scores for this site was the large size of some images. However, images were optimised and their size was reduced as much as possible whilst maintaining their quality. As this site relies heavily upon attractive images to successfully meet goals, it was decided to not reduce the size of the images any further, as each page loads fairly quickly, with an overall performance score of atleast 70%. 
+The main negative influence upon Lighthouse performance scores for this site was the large size of some images. However, images were optimised and their size was reduced as much as possible whilst maintaining a high quality. Given that this site relies heavily upon attractive images, and that each page loads fairly quickly with an overall performance score of atleast 70%, it was decided to not reduce the size of the images any further. 
 
 Other significant negative influences upon Lighthouse performance scores were related to the loading of external libraries, so couldn't be resolved without removing the content of the website, something which wasn't attempted due to the already high overall performance scores of each page. 
 
