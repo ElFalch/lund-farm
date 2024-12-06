@@ -242,10 +242,10 @@ The HTML for each page was validated used the [W3C Markup Validator](https://val
 
 The CSS stylesheet was validated using [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
-| Result                                                                                                                                                 | Comments      |     
-| ------------------------------------------------------------------------------------------------------------------------------------------------------ |:-------------:|  
-|![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/css-validation-images/indelund-farm-css-no-errors.png)|               |
-|![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/css-validation-images/indelund-farm-css-warnings.png) |               |
+| Comments      | Result                                                                                                                                                |   
+| ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
+|               |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/css-validation-images/lund-farm-css-no-errors.png)   | 
+| warnings are the result of external libraries and css prefixes being usd and therefore are not an issue|![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/css-validation-images/lund-farm-css-warnings.png)    |
 
 ## Automated Testing
 
