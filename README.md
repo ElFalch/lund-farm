@@ -14,10 +14,9 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
     - [Visitor Goals](#visitor-goals)
     - [User Stories](#user-stories)
 
-    </li></details>
+    </details></li>
 
     <li><details>
-
     <summary><a href="#visual-design">Visual Design</a></summary>
 
     - [Wireframes](#wireframes)
@@ -61,6 +60,7 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
     - [HTML Validation](#html-validation)
     - [CSS Validation](#css-validation)
 
+    </details></li>
 
     <li><details>
     <summary><a href="#automated-testing">Automated Testing</a></summary>
@@ -68,7 +68,7 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
     - [Lighthouse Testing](#lighthouse-testing)
     - [Wave Accessibility Testing](#wave-accessibility-testing)
 
-    </li></details>
+    </details></li>
 
     </li>
 </ul>
