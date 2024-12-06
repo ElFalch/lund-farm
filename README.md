@@ -249,7 +249,13 @@ The CSS stylesheet was validated using [W3C CSS Validator](https://jigsaw.w3.org
 
 ## Automated Testing
 
+### Lighthouse Testing
+
 - Automated testing for performance, accessibility and best practises was conducted using the [Lighthouse tool](https://developer.chrome.com/docs/lighthouse) within Chrome DevTools.  
+
+#### Lighthouse Report Summaries
+
+The total score for performance for each of the pages ranged from 73% to 99 %. The total score for accessibility and best practices was 100% for each of the pages. 
 
 | Page          | Lighthouse Report Summary                                                                                                                             |   
 | ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
@@ -259,6 +265,11 @@ The CSS stylesheet was validated using [W3C CSS Validator](https://jigsaw.w3.org
 | thanks.html   |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/thanks-lighthouse-summary.png)                      |
 | 404.html      |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/404-lighthouse-summary.png)                         | 
 
+#### Lighthouse performance report diagnostics
+
+The main negative influence upon Lighthouse performance scores for this site was the large size of some images. However, images were optimised and their size was reduced as much as possible whilst maintaining their quality. As this site relies heavily upon attractive images to successfully meet goals, it was decided to not reduce the size of the images any further, as each page loads fairly quickly, with an overall performance score of atleast 70%. 
+
+Other significant negative influences upon Lighthouse performance scores were related to the loading of external libraries, so couldn't be resolved without removing the content of the website, something which wasn't attempted due to the already high overall performance scores of each page. 
 
 | Page          | Lighthouse Report Diagnostics                                                                                                                         |   
 | ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
