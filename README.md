@@ -242,9 +242,9 @@ The HTML for each page was validated used the [W3C Markup Validator](https://val
 
 The CSS stylesheet was validated using [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
 
-| Summary       | Result                                                                                                                                                |   
-| ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
-|               |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/css-validation-images/lund-farm-css-no-errors.png)   | 
+| Summary         | Result                                                                                                                                                |   
+| --------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
+| No errors found |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/css-validation-images/lund-farm-css-no-errors.png)   | 
 | Warnings are the result of Google fonts and css prefixes being used and do not present any issues |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/css-validation-images/lund-farm-css-warnings.png)    |
 
 ## Automated Testing
