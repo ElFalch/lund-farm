@@ -235,11 +235,17 @@ The HTML for each page was validated used the [W3C Markup Validator](https://val
 | index.html    |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/index-html-validation.png)    | 
 | gallery.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/gallery-html-validation.png)  |
 | contact.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/contact-html-validation.png)  | 
-| thanks.html   |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/thanks-html-validation.png)  |
-| 404.html      |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/404-html-validation.png)  | 
+| thanks.html   |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/thanks-html-validation.png)   |
+| 404.html      |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/404-html-validation.png)      | 
 
+### CSS Validation 
 
-- CSS was validated using [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+The CSS stylesheet was validated using [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+| Result                                                                                                                                                 | Comments      |     
+|:------------------------------------------------------------------------------------------------------------------------------------------------------:|---------------|  
+|![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/css-validation-images/indelund-farm-css-no-errors.png)|               |
+|![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/css-validation-images/indelund-farm-css-warnings.png) |These warnings result from external libraries and css prefixes being used.|
 
 ## Automated Testing
 
