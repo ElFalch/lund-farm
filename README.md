@@ -14,7 +14,7 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
     - [Visitor Goals](#visitor-goals)
     - [User Stories](#user-stories)
 
-     </li>
+    </li></details>
 
     <li><details>
 
@@ -54,10 +54,21 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
     <summary><a href="#testing">Testing</a></summary>
 
     <ul>
-    <li>
 
-    - [Validation](#validation)
-    - [Automated Testing](#automated-testing)
+    <li><details>
+    <summary><a href="#validation">Validation</a></summary> 
+
+    - [HTML Validation](#html-validation)
+    - [CSS Validation](#css-validation)
+
+
+    <li><details>
+    <summary><a href="#automated-testing">Automated Testing</a></summary>
+
+    - [Lighthouse Testing](#lighthouse-testing)
+    - [Wave Accessibility Testing](#wave-accessibility-testing)
+
+    </li></details>
 
     </li>
 </ul>
@@ -296,10 +307,10 @@ Other significant negative influences upon Lighthouse performance scores were re
 
 | Page          | Lighthouse Report Details                                                                                                                             |   
 | ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
-| index.html    |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/index-wave-details-1.png)                                   | 
+| index.html    |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/index-wave-details-1.png)                                 | 
 | index.html    |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/index-wave-details-2.png)                                 |
-| gallery.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/gallery-wave-details-1.png)                                 | 
-| gallery.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/gallery-wave-details-2.png)                                  |
+| gallery.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/gallery-wave-details-1.png)                               | 
+| gallery.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/gallery-wave-details-2.png)                               |
 
 # Deployment
 
