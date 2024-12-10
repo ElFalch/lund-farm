@@ -70,6 +70,12 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
 
     </details></li>
 
+    <li>
+
+    <summary><a href="#automated-testing">Manual Testing</a></summary>
+
+    </li>
+
     </li>
 </ul>
 </details>
