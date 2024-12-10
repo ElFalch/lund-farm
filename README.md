@@ -243,11 +243,11 @@ The HTML for each page was validated used the [W3C Markup Validator](https://val
 
 | Page          | Result                                                                                                                                                |   
 | ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
-| index.html    |![index HTML validation](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/index-html-validation.png)    | 
-| gallery.html  |![gallery HTML validation](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/gallery-html-validation.png)  |
-| contact.html  |![contact HTML validation](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/contact-html-validation.png)  | 
-| thanks.html   |![thanks HTML validation](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/thanks-html-validation.png)   |
-| 404.html      |![404 HTML validation](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/404-html-validation.png)      | 
+| index.html    |![Index Page HTML validation](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/index-html-validation.png)    | 
+| gallery.html  |![Gallery Page HTML validation](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/gallery-html-validation.png)  |
+| contact.html  |![Contact Page HTML validation](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/contact-html-validation.png)  | 
+| thanks.html   |![Thanks Page HTML validation](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/thanks-html-validation.png)   |
+| 404.html      |![404 Page HTML validation](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/404-html-validation.png)      | 
 
 ### CSS Validation 
 
@@ -270,11 +270,11 @@ The total score for performance for each of the pages ranged from 73% to 99 %. T
 
 | Page          | Lighthouse Report Summary                                                                                                                             |   
 | ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
-| index.html    |![index Lighthouse Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/index-lighthouse-summary.png)                       | 
-| gallery.html  |![gallery Lighthouse Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/gallery-lighthouse-summary.png)                     |
-| contact.html  |![contact Lighthouse Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/contact-lighthouse-summary.png)                     | 
-| thanks.html   |![thanks Lighthouse Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/thanks-lighthouse-summary.png)                      |
-| 404.html      |![404 Lighthouse Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/404-lighthouse-summary.png)                         | 
+| index.html    |![Index Page Lighthouse Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/index-lighthouse-summary.png)                       | 
+| gallery.html  |![Gallery Page Lighthouse Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/gallery-lighthouse-summary.png)                     |
+| contact.html  |![Contact Page Lighthouse Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/contact-lighthouse-summary.png)                     | 
+| thanks.html   |![Thanks Page Lighthouse Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/thanks-lighthouse-summary.png)                      |
+| 404.html      |![404 Page Lighthouse Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/404-lighthouse-summary.png)                         | 
 
 #### Lighthouse performance report diagnostics
 
@@ -284,11 +284,11 @@ Other significant negative influences upon Lighthouse performance scores were re
 
 | Page          | Lighthouse Report Diagnostics                                                                                                                         |   
 | ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
-| index.html    |![index Lighthouse Report Diagnostics](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/index-lighthouse-diagnostics.png)                   | 
-| gallery.html  |![gallery Lighthouse Report Diagnostics](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/gallery-lighthouse-diagnostics.png)                 |
-| contact.html  |![contact Lighthouse Report Diagnostics](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/contact-lighthouse-diagnostics.png)                 | 
-| thanks.html   |![thanks Lighthouse Report Diagnostics](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/thanks-lighthouse-diagnostics.png)                  |
-| 404.html      |![404 Lighthouse Report Diagnostics](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/404-lighthouse-diagnostics.png)                     | 
+| index.html    |![Index Page Lighthouse Report Diagnostics](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/index-lighthouse-diagnostics.png)                   | 
+| gallery.html  |![Gallery Page Lighthouse Report Diagnostics](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/gallery-lighthouse-diagnostics.png)                 |
+| contact.html  |![Contact Page Lighthouse Report Diagnostics](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/contact-lighthouse-diagnostics.png)                 | 
+| thanks.html   |![Thanks Page Lighthouse Report Diagnostics](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/thanks-lighthouse-diagnostics.png)                  |
+| 404.html      |![404 Page Lighthouse Report Diagnostics](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/404-lighthouse-diagnostics.png)                     | 
 
 
 ### Wave accessibility testing
@@ -305,20 +305,20 @@ For the Gallery page, contrast errors resulted from a lack of contrast between t
 
 | Page          | Wave Report Summary                                                                                                                             |   
 | ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
-| index.html    |![index Wave Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/index-wave-summary.png)                                   | 
-| gallery.html  |![gallery Wave Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/gallery-wave-summary.png)                                 |
-| contact.html  |![contact Wave Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/contact-wave-summary.png)                                 | 
-| thanks.html   |![thanks Wave Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/thanks-wave-summary.png)                                  |
-| 404.html      |![404 Wave Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/404-wave-summary.png)                                     | 
+| index.html    |![Index Page Wave Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/index-wave-summary.png)                                   | 
+| gallery.html  |![Gallery Page Wave Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/gallery-wave-summary.png)                                 |
+| contact.html  |![Contact Page Wave Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/contact-wave-summary.png)                                 | 
+| thanks.html   |![Thanks Page Wave Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/thanks-wave-summary.png)                                  |
+| 404.html      |![404 Page Wave Report Summary](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/404-wave-summary.png)                                     | 
 
 #### Wave accessibility Report Details
 
 | Page          | Wave Report Details                                                                                                                             |   
 | ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
-| index.html    |![index Wave Report Details](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/index-wave-details-1.png)                                 | 
-| index.html    |![index Wave Report Details](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/index-wave-details-2.png)                                 |
-| gallery.html  |![gallery Wave Report Details](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/gallery-wave-details-1.png)                               | 
-| gallery.html  |![gallery Wave Report Details](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/gallery-wave-details-2.png)                               |
+| index.html    |![Index Page Wave Report Details](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/index-wave-details-1.png)                                 | 
+| index.html    |![Index Page Wave Report Details](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/index-wave-details-2.png)                                 |
+| gallery.html  |![Gallery Page Wave Report Details](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/gallery-wave-details-1.png)                               | 
+| gallery.html  |![Gallery Page Wave Report Details](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/gallery-wave-details-2.png)                               |
 
 # Deployment
 
