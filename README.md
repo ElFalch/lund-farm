@@ -293,6 +293,14 @@ Other significant negative influences upon Lighthouse performance scores were re
 
 ### Wave accessibility testing
 
+Further automated testing for the accessibility of the site was conducted using the [Wave Web Accessibility Evaluation Tool](https://wave.webaim.org/).
+
+No accessibility errors were found for the contact, thanks or 404 pages, however, there were alerts relating to redundant links to the home page, due to the navbar brand and navbar menu both containing links to the home page. This alert could be resolved by removing the link from the navbar brand, but this link represents an easy and intuitive way for users to find the home page, so it was decided to keep both navbar links despite the altert. The index and gallery page wave reports also contained the same altert, aswell as some additional alerts and contrast errors. 
+
+For the index and gallery pages, additional alerts related to long alternative text for the main image in the header and the marquee and cottage images in the services cards and gallery carousel. It was decided to retain this alternative text, as this was needed to properly describe the images for those who cannot see them. 
+
+For the Gallery page, contrast errors resulted from a lack of contrast between the "next" and "previous" arrows of the image carousel and the images themselves, however it was decided that an increase in contrast would not be attempted due to 1. the arrows being best placed on top of the images for a consistent, mobile-first design, 2. The variation in colour of the images meaning that no consistent arrow colour could achieve a good level of colour contrast across all images, and 3. the message in the header of the carousel section explaining the use of the white arrows to navigate the image carousel signposting these arrows and making them easier to find despite the lack of colour contrast. 
+
 #### Wave accessibility Report Summaries
 
 | Page          | Wave Report Summary                                                                                                                             |   
