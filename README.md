@@ -320,6 +320,11 @@ For the Gallery page, contrast errors resulted from a lack of contrast between t
 | gallery.html  |![Gallery Page Wave Report Details](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/gallery-wave-details-1.png)                               | 
 | gallery.html  |![Gallery Page Wave Report Details](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/gallery-wave-details-2.png)                               |
 
+
+## Manual Testing 
+
+Manual testing was carried out to ensure all links worked as intended, aswell as the contact form and 404 page. Device mode in [Chrome DevTools](https://developer.chrome.com/docs/devtools) was used to ensure that the design was responsive and that features were fully functional across all device sizes. 
+
 # Deployment
 
 The site was deployed to GitHub pages. The deployed site can be found [here] (https://elfalch.github.io/lund-farm/) 
