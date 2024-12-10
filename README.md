@@ -243,11 +243,11 @@ The HTML for each page was validated used the [W3C Markup Validator](https://val
 
 | Page          | Result                                                                                                                                                |   
 | ------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
-| index.html    |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/index-html-validation.png)    | 
-| gallery.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/gallery-html-validation.png)  |
-| contact.html  |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/contact-html-validation.png)  | 
-| thanks.html   |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/thanks-html-validation.png)   |
-| 404.html      |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/404-html-validation.png)      | 
+| index.html    |![index HTML validation](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/index-html-validation.png)    | 
+| gallery.html  |![gallery HTML validation](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/gallery-html-validation.png)  |
+| contact.html  |![contact HTML validation](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/contact-html-validation.png)  | 
+| thanks.html   |![thanks HTML validation](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/thanks-html-validation.png)   |
+| 404.html      |![404 HTML validation](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/html-validation-images/404-html-validation.png)      | 
 
 ### CSS Validation 
 
@@ -255,7 +255,7 @@ The CSS stylesheet was validated using [W3C CSS Validator](https://jigsaw.w3.org
 
 | Summary         | Result                                                                                                                                                |   
 | --------------- |:-----------------------------------------------------------------------------------------------------------------------------------------------------:| 
-| No errors found |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/css-validation-images/lund-farm-css-no-errors.png)   | 
+| No errors found |![Lund farm CSS validation](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/css-validation-images/lund-farm-css-no-errors.png)   | 
 | Warnings are the result of Google fonts and css prefixes being used and do not present any issues |![](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/validation-images/css-validation-images/lund-farm-css-warnings.png)|
 
 ## Automated Testing
