@@ -112,7 +112,6 @@ This website is designed to showcase a wedding venue, Lund Farm and its services
 
 </details>
 
-----
 
 # UX
 
@@ -150,13 +149,11 @@ The GitHub project board containing Lund Farm user stories can be found [here](h
 
 #### Tablet Wireframe
 
-
 ![Tablet wireframe](https://github.com/ElFalch/lund-farm/blob/main/assets/images/wireframes/lund_farm_tablet_wireframe.png "Tablet wireframe")
 
 #### PC Wireframe
 
 ![PC wireframe](https://github.com/ElFalch/lund-farm/blob/main/assets/images/wireframes/lund_farm_pc_wireframe.png "PC wireframe")
-
 
 ### Colours
 
@@ -296,7 +293,6 @@ Other significant negative influences upon Lighthouse performance scores were re
 | thanks.html   |![Thanks Page Lighthouse Report Diagnostics](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/thanks-lighthouse-diagnostics.png)                  |
 | 404.html      |![404 Page Lighthouse Report Diagnostics](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/lighthouse-testing/404-lighthouse-diagnostics.png)                     | 
 
-
 ### Wave accessibility testing
 
 Further automated testing for the accessibility of the site was conducted using the [Wave Web Accessibility Evaluation Tool](https://wave.webaim.org/).
@@ -332,10 +328,10 @@ Errors resulted from a lack of contrast between the "next" and "previous" arrows
 | gallery.html  |![Gallery Page Wave Report Details](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/gallery-wave-details-1.png)                               | 
 | gallery.html  |![Gallery Page Wave Report Details](https://github.com/ElFalch/lund-farm/blob/main/assets/images/testing-images/wave-testing/gallery-wave-details-2.png)                               |
 
-
 ## Manual Testing 
 
 Manual testing was carried out to ensure all links, forms and 404 error pages worked as intended. Device mode in [Chrome DevTools](https://developer.chrome.com/docs/devtools) was used to ensure that the design was responsive and that features were fully functional across all device sizes. 
+
 
 # Deployment
 
@@ -352,7 +348,6 @@ To make a copy of this repository within your own GitHub repository, you should 
 `git clone https://github.com/ElFalch/lund-farm`
 
 3. Add, commit and push your changes. 
-
 
 ## Deploying Your Repository to GitHub Pages
 
@@ -412,7 +407,6 @@ Once deployed, the steps to access your live site are as follows:
 - altar.webp: [Photo by Joel Paim from Pexels](https://www.pexels.com/photo/wedding-altar-set-up-2434255/)
 
 - image used to create favicons: tweemoji, copyright 2020 Twitter. Licensed under [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-
 
 ## Code from external sources
 
