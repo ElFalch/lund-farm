@@ -339,7 +339,7 @@ Manual testing was carried out to ensure all links, forms and 404 error pages wo
 
 # Deployment
 
-The site was deployed to GitHub pages. The deployed site can be found [here] (https://elfalch.github.io/lund-farm/) 
+The site was deployed to GitHub pages. The deployed site can be found [here](https://elfalch.github.io/lund-farm/) 
 
 ## Cloning the GitHub Repository using Gitpod
 
