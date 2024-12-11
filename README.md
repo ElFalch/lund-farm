@@ -172,7 +172,7 @@ The fonts used were chosen as they are rustic and relaxed, reflecting the atmosp
 
 Icons were taken from the [FontAwsome](https://fontawesome.com/v4/icons/) icon library. 
 
-- A heart icon is used in the navigation bar brand, reflecting Lund Farm's services at a first-impression level, so that target users are encouraged to use the site and business at a greater level. 
+- A heart icon is used in the navigation bar brand, reflecting Lund Farm's services at a first-impression level, so that target users are encouraged to use the site and business at a deeper level. 
 
 - Icons for Facebook, X (formerly Twitter), Instagram and YouTube are used in the footer as buttons linking to each of these sites, improving the visibility of these links so that more users follow them. 
 
@@ -180,7 +180,7 @@ Icons were taken from the [FontAwsome](https://fontawesome.com/v4/icons/) icon l
 
 - An arrow icon is used in the gallery page to direct people to the image carousel after reading instructions about how it works, increasing the number of times the carousel images are viewed. 
 
-- A pencil icon is used in the contact page to highlight the message about filling the form out, increasing the number of times the contact form is successfully submitted. 
+- A pencil icon is used in the contact page to highlight the message about filling the form out, increasing the likelihood that the contact form is successfully completed by users. 
 
 ### Images
 
@@ -188,7 +188,7 @@ Several images have been used across the site, so their size has been reduced as
 
 - On the home page, a main image that reflects the colour scheme has been used in the header aswell as images for each of the services cards. This reduces the time needed for users to get a first impression of the services provided by the business, increasing the use of services by target users. 
 
-- The gallery page includes a carousel of attractive images of the venue, further conveying the servies provided by the business for users who are interested. 
+- The gallery page includes a carousel of attractive images of the venue, further conveying the services provided by the business for users who are interested. 
 
 - On the thanks page, which users are taken to when they submit the contact form, an image has been used to fill empty space and provide some brighter colours and a friendly touch, increasing the impact of the page by and a personal touch, so that users feel certain their message is valued. 
 
