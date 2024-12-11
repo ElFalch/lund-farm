@@ -70,7 +70,7 @@ form {
     background-color: var(--feature-color-2);
 }
 
-/* Card images - taken from Stack Overflow (https://stackoverflow.com/questions/37287153/how-to-get-images-in-bootstraps-card-to-be-the-same-height-width) */
+/* Card image styling - taken from Stack Overflow (https://stackoverflow.com/questions/37287153/how-to-get-images-in-bootstraps-card-to-be-the-same-height-width) */
 
 .card-img {
     width: 100%;
