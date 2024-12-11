@@ -416,7 +416,7 @@ Once deployed, the steps to access your live site are as follows:
 
 ## Code from external sources
 
-- General website structure taken from [Code Institute Boardwalk Games module project](https://codeinstitute.net/uk-funded-cohorts/?utm_term=code%20institute&utm_campaign=CI%20-%20UK%20-%20Search%20-%20Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=1578649861&hsa_grp=62188641240&hsa_ad=635720257674&hsa_src=g&hsa_tgt=kwd-319867646331&hsa_kw=code%20institute&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAmMC6BhA6EiwAdN5iLboL3Mus4shnMVy0f0w_H3d2NIwegbliRN7ME8yx7dTEaBqlfBIV5xoCtnQQAvD_BwE).
+- General website structure and navbar styling taken from [Code Institute Boardwalk Games module project](https://codeinstitute.net/uk-funded-cohorts/?utm_term=code%20institute&utm_campaign=CI%20-%20UK%20-%20Search%20-%20Brand&utm_source=adwords&utm_medium=ppc&hsa_acc=8983321581&hsa_cam=1578649861&hsa_grp=62188641240&hsa_ad=635720257674&hsa_src=g&hsa_tgt=kwd-319867646331&hsa_kw=code%20institute&hsa_mt=e&hsa_net=adwords&hsa_ver=3&gad_source=1&gclid=CjwKCAiAmMC6BhA6EiwAdN5iLboL3Mus4shnMVy0f0w_H3d2NIwegbliRN7ME8yx7dTEaBqlfBIV5xoCtnQQAvD_BwE).
 
 - General Structure and code for dropdown menu contents section of ReadMe taken from the GitHub repository [horizon-photo](https://github.com/Ri-Dearg/horizon-photo/tree/main)
 
